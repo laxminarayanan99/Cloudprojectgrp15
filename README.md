@@ -91,3 +91,8 @@ Current open-source applications of RTMP streaming to numerous locations are pro
   ```
 ###### Step 3.4: Server Ready
   * Create a new profile in OBS, and change your Broadcast Settings
+#### Step 4 — Authentication Nginx
+  *  Basic authentication is provided from this site to ensure securtiy
+  *  https://docs.nginx.com/nginx/admin-guide/security-controls/configuring-http-basic-authentication/
+
+#### Step 5 - Start Streaming!!!!
